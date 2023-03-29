@@ -1,0 +1,28 @@
+* {
+  background-color: rgb(244, 190, 209);
+  font-family: Arial, sans-serif;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 1;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+}
+
+td {
+  border: 1px solid black;
+  background-color: white;
+  padding: 5px;
+  text-align: center;
+  font-size: 18px;
+  color:black;
+  border-radius: 12%;
+}
+
+td.prime {
+  background-color: rgb(244, 71, 146);
+  color: white;
+  font-weight: bold;
+}
